@@ -1,0 +1,97 @@
+.VIpgJd-ZVi9od-l4eHX-hSRGPd{
+    display: none !important;
+}
+.full-width-header .rs-header .expand-btn-inner ul .humburger .nav-expander .bar span {
+    background: #61EBDE;
+}
+.rs-services.main-home.services-style1 .services-item::after {
+left: 50px !important;
+}
+.bg6 {
+    background-image: url(../img/bg/testi-bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.rs-breadcrumbs.img1 {
+    background: url(../img/banner/about-banner.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img2 {
+    background: url(../img/banner/faqbanner.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img3 {
+    background: url(../img/banner/contactbanner.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img4 {
+    background: url(../img/banner/why-invest.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img5 {
+    background: url(../img/banner/how-it-works.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img6{
+    background: url(../img/banner/services.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img7{
+    background: url(../img/banner/exploration.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img8{
+    background: url(../img/banner/oil-gas.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-breadcrumbs.img9{
+    background: url(../img/banner/development.jpg);
+      background-position-x: 0%;
+      background-position-y: 0%;
+      background-repeat: repeat;
+      background-size: auto;
+  }
+  .rs-pricing.style1 .pricing-table .pricing-table-body ul li {
+    border-bottom: 1px gray groove;
+  }
+@media(max-width:1024px) {
+    #language_div{
+        z-index: 1900;position: fixed;bottom:  0; padding: 10px;
+        left: 10%
+    }
+    .pb-sm-40{
+        padding-bottom: 40px;
+    }
+    .hidden-sm-down {
+        display:none!important
+    }
+    .banner-left{
+        height: 500px;
+    }
+    
+}

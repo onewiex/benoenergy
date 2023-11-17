@@ -1,0 +1,78 @@
+.VIpgJd-ZVi9od-l4eHX-hSRGPd{
+    display: none !important;
+}
+#language_div{
+    z-index: 1900;position: fixed;bottom:  0; padding: 10px; right: 0
+}
+#system_msg{
+    z-index: 2000;position: fixed;bottom:  2%; padding: 10px; right: 1%
+}
+.close {
+    width: 20px !important;
+    padding: 1px;
+    height: 20px !important;
+    left: 5%;
+    margin: 10px !important;
+    border-radius: 5px !important;
+    line-height: 0px !important;
+}
+/* .page-loader{
+    display: block;
+    text-align: center;
+    padding-top: 25%;
+    max-width: 100%;
+    max-height: 100%;
+} */
+#alert_div .alert{
+    padding: 0px
+}
+.hidden {
+    display: none !important;
+}
+#particles-js::before {
+    background-color: transparent;
+  }
+.dep_copy_btn{
+    background: transparent!important;
+    border: 0!important;
+    cursor: pointer!important;
+}
+.copy_btn,.JusHTsgy,.HUhySGtS{
+    cursor: pointer!important;
+}
+#myTable_length select, #myTable_filter label input{
+    color: white
+}
+/*deposit form*/ 
+
+/*notification color*/
+.c-t-success{
+    color: #00A389 !important
+}
+.c-t-primary{
+    color: var(--primary) !important
+}
+.c-t-danger{
+    color: #EB5757 !important
+}
+.c-t-info{
+    color: #58bad7 !important
+}
+.c-t-dark{
+    color: #6e6e6e !important
+}
+.c-t-warning{
+    color: #f0a901 !important;
+}
+/*.header-navbar .navbar-container .dropdown-menu-media .media-list .list-item {
+  border-bottom: 1px solid #ccc !important;
+}*/
+@media(max-width:1024px) {
+    #language_div{
+        z-index: 1900;position: fixed;bottom:  1%; padding: 10px;
+        right: 1%
+    }
+    .hidden-sm-down {
+        display:none!important
+    }
+}
